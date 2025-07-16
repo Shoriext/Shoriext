@@ -21,4 +21,4 @@
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shoriext&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoriext&layout=compact&bg_color=1a1928)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoriext&layout=compact&bg_color=1a1928&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
