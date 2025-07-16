@@ -20,5 +20,5 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shoriext)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shoriext&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoriext&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
